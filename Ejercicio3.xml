@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    <equipo1>
+        <pais>Alemania</pais>
+        <ciudad>Stuttgart</ciudad>
+        <jugador1 posicion="Delantero centro"> 
+            Serhou Guirassy
+            <nacionalidad> 
+                Gineano
+            </nacionalidad>
+        </jugador1>
+        <jugador2 posicion="Defensa central"> 
+            Hiroki Ito
+            <nacionalidad> 
+                Japones
+            </nacionalidad>
+        </jugador2>
+    </equipo1>
+    <equipo2>
+        <pais>Italia</pais>
+        <ciudad>Napoles</ciudad>
+        <jugador1 posicion="Extremo izquierdo"> 
+            khvicha kvaratskhelia
+            <nacionalidad> 
+                Gerogiano
+            </nacionalidad>
+        </jugador1>
+        <jugador2 posicion="medio cenntro defensivo"> 
+            André-Frank Zambo Anguissa
+            <nacionalidad> 
+                Camerunes
+            </nacionalidad>
+        </jugador2>
+    </equipo2>
+</equipos>
