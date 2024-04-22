@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE articulos SYSTEM "conjunto.dtd">
+<articulos>
+    <articulo>
+        <nombre>Camisteta ALemania Retro Mundial EEUU 1994</nombre>
+        <precio>39.95€</precio>
+        <codigo>4531545612d456e</codigo>
+        <fabricante>Adidas</fabricante>
+    </articulo>
+
+    <articulo>
+        <nombre>Camisteta Brasil Retro Mundial Alemania 2002</nombre>
+        <precio>39.95€</precio>
+        <codigo>sd4542547f845d46</codigo>
+        <fabricante>Nike</fabricante>
+    </articulo>
+
+    <articulo>
+        <nombre>Camisteta España Retro Mundial Sudáfrica 2010</nombre>
+        <precio>39.95€</precio>
+        <codigo>126565d55f231</codigo>
+        <fabricante>Adidas</fabricante>
+    </articulo>
+</articulos>
